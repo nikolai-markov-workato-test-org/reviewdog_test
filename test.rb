@@ -7,6 +7,8 @@ class Foo
 
     def baz
     end
+
+
 end
 
 Foo.new.bar
