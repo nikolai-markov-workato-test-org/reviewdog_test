@@ -10,6 +10,7 @@ class Foo
 
 
 
+  "asdasda"
 end
 
 Foo.new.bar
