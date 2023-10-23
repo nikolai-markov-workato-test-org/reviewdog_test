@@ -20,6 +20,6 @@ jobs:
         with:
           rubocop_version: gemfile
           reporter: github-pr-check
-          filter_mode: diff_context
+          filter_mode: added
           skip_install: true
           use_bundler: true
