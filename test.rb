@@ -4,6 +4,13 @@ class Foo
 
   def bar
   end
+
+  def baz
+  end
+
+
+
+  "asdasda"
 end
 
 Foo.new.bar
